@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "SIMD ALU Compute Engine"      # Project title
-  author:       "Abhimanyu"      # Your name
+  author:       "Abhimanyu. M, Busiraju Aniruddha Kashyap, Dhruv John Sebastian, Dr. Sudhanya. P"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "8-bit SIMD ALU with parallel lanes, mixing, pipeline, and FSM control"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
